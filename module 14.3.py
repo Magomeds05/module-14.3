@@ -10,7 +10,7 @@ import asyncio
 
 import text2
 
-API = "8197570567:AAF2r-nMMyE_nqJ4Ll3dAHgXvzRn5kNVegw"
+API = ""
 
 logging.basicConfig(level = logging.INFO)
 bot = Bot(token=API)
